@@ -2,6 +2,10 @@
 	margin: auto;
 	font-family: Segoe UI;
 }
+
+::-moz-selection { background:none; }
+::selection { background:none;  }
+
 #portada{
 	position: relative;
 	background: url("../img/portada.jpg")no-repeat center;
