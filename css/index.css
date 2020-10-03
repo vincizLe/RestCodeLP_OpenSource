@@ -132,6 +132,10 @@
 	background: #1bd698;
 	color: #fff;
 }
+.usuario button a{
+    text-decoration: none;
+    color: #fff;
+}
 li{
     text-align: left;
 }
